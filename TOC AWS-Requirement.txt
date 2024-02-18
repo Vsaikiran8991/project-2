@@ -1,0 +1,95 @@
+Introduction to Cloud Computing & AWS
+-------------------------------------
+What is Cloud Computing
+Leaders in the cloud domain
+Regions & Availability zones(Azs)
+AWS Cloud Services
+AWS architecture and the AWS Management Console 
+
+
+
+Networking
+----------
+What is Amazon VPC
+IP address and CIDR notations,
+Components of VPC 
+- Network interfaces
+- Route tables
+- Internet gateway
+- NAT gateway
+Security in VPC
+
+
+
+
+Storage
+-------
+Introduction to AWS storage
+S3 — online cloud storage
+Objects in S3
+Object versioning
+Object lifecycle management
+Cross—region replication
+
+
+
+
+Elastic Compute and Storage Volumes
+-----------------------------------
+Introduction o EC2
+EC2 instance types
+Launching an AWS EC2 instance 
+Introduction to AMls
+Creating and Copying an AMI Introduction to EBS
+EBS volume types 
+EBS Snapshots
+Instance tenancy-Reserved and Spot instances
+
+
+
+Load Balancing, Autoscoling and DNS
+-----------------------------------
+Introduction to Elastic Load Balancer
+Types of ELB — Classic, Network and Application
+Load balancer architecture
+Cross-zone load balancing
+Introduction to Auto Scaling, vertical and horizontal scaling
+Route 53
+
+
+
+Databases 
+---------
+What is a database, types of databases, databases on AWS
+Introduction to Amazon RDS
+Multi-AZ deployments, features of RDS
+Read replicas in RDS, reserved DB instances
+Introduction to Amazon Aurora
+Introduction to DynamoDB
+What is Amazon Redshift, advantages of Redshift
+
+
+
+Access Management and Monitoring Services
+-----------------------------------------
+IAM
+Amazon Resource Name (ARN)
+Multi-factor authentication (MFA)
+IAM policies,Permissions,Roles,Identity federation
+Introduction  to CloudWatch
+Introduction to CloudTrail
+
+
+
+Automation and Configuration management
+---------------------------------------
+What is AWS Lambda
+Lambda Vs EC2
+Benefits and limitations of Lambda 
+How does Lambda work
+Integration of S3 with lambda
+What is configuration management
+
+
+
+www.linkedin.com/in/vsaikiranreddy98
